@@ -1,0 +1,16 @@
+Enter Book ID: 
+B123
+Enter Due Date (YYYY-MM-DD): 
+2024-11-1
+Enter Return Date (YYYY-MM-DD): 
+2024-11-15
+Book ID: B123
+Due Date: 2024-11-01
+Return Date: 2024-11-15
+Days Overdue: 14
+Fine Rate (Ksh/day): 50
+Fine Amount (Ksh): 700
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
